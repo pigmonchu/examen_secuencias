@@ -1,0 +1,5 @@
+venv/
+sol_*
+test_*
+**__pycache__/
+.pytest_cache/
